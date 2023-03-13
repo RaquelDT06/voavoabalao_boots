@@ -1,0 +1,5 @@
+.banner__imagem{
+    background: url(../../img/banner-pais.webp) no-repeat center / cover;
+    width: 100%;
+    height: 100vh;
+}

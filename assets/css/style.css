@@ -1,0 +1,51 @@
+
+@import url(cabecalho.css);
+@import url(normalize.css);
+@import url(reset.css);
+@import url(destinos.css);
+@import url(pessoas.css);
+@import url(rodape.css);
+@import url(modal.css);
+@import url(coments.css);
+
+
+
+@import url(menu/menu-lista.css);
+@import url(menu/menu-link.css);
+@import url(menu/menu-item.css);
+
+
+@import url(banner/banner-imagem.css);
+@import url(banner/banner-titulo.css);
+@import url(banner/banner.css);
+
+
+@import url(sobre/sobre-descricao.css);
+@import url(sobre/sobre-titulo.css);
+@import url(sobre/sobre.css);
+
+
+@import url(destino/destino-botao.css);
+@import url(destino/destino-conteudo.css);
+@import url(destino/destino-descricao.css);
+@import url(destino/destino-imagem.css);
+@import url(destino/destino-titulo.css);
+@import url(destino/destino.css);
+
+
+@import url(pessoa/pessoa-funcao.css);
+@import url(pessoa/pessoa-imagem.css);
+@import url(pessoa/pessoa-nome.css);
+@import url(pessoa/pessoa.css);
+
+
+@import url(vendedores/vendedores-descricao.css);
+@import url(vendedores/vendedores-titulo.css);
+@import url(vendedores/vendedores.css);
+
+@import url(coments/image_coments.css);
+@import url(coments/coments-descricao.css);
+@import url(coments/coments-titulo.css);
+@import url(coments/coments.css);
+
+

@@ -1,0 +1,25 @@
+.img_coments, .row g-0, div.card mb-3{
+    
+   
+    padding: 0.3rem;
+    flex-direction: column;
+    margin-right: 5rem;
+    width: calc(25% - 5rem);
+    
+    
+}
+
+.img_coments{
+    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+
+  
+}
+
+
+
+
+

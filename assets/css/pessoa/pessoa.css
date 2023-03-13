@@ -1,0 +1,10 @@
+.pessoa{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    transition: all 1s;
+}
+
+.pessoa:hover{
+    transform: scale(1.2);
+}

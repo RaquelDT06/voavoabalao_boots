@@ -1,0 +1,25 @@
+.destino__botao {
+    background-color: rgb(80, 65, 65);
+    border: none;
+    border-radius: 9px;
+    color: antiquewhite;
+    padding: 1rem;
+    transition: all 0.1s ease-in-out;
+    
+    
+}
+
+.destino__botao:hover {
+    background-color:rgb(107, 101, 101);
+    cursor: pointer;
+}
+
+.bi-airplane{
+
+width: 50px; 
+height: 20px;
+
+    
+    
+}
+
